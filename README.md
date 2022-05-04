@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @g-strack
-- 👀 I’m interested in robotics, computer vision and machine learning
-- 🌱 I’m currently learning opencv and fastai
-- 💞️ I’m looking to collaborate on robotics and machine learning projects
+- 👀 I’m interested in Python and web applications
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking to collaborate on Python and web application projects.
 - 📫 My email is gavin.strack@horizonpower.com.au
 
 <!---
